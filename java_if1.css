@@ -1,0 +1,13 @@
+.btn{
+    width: 7%;
+    height: 20px;
+    margin: 1%;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color: rgb(134, 255, 225);
+}
+.btn:hover{
+    background-color: rgb(95, 252, 212);
+    width: 8%;
+    height: 30px;
+}
